@@ -1,8 +1,8 @@
-# Web Development Project 2 - *Flash Cards*
+# Web Development Project 3 - *Flashcards part 2*
 
 Submitted by: **Zuneail Wahid**
 
-This web app: **Provides flashcards to help you study!**
+This web app: **builds upon project 2 to add more features**
 
 Time spent: **2** hours spent in total
 
@@ -10,30 +10,27 @@ Time spent: **2** hours spent in total
 
 The following **required** functionality is completed:
 
+- [x] **The user can enter their guess into an input box *before* seeing the flipside of the card**
+  - Application features a clearly labeled input box with a submit button where users can type in a guess
+  - Clicking on the submit button with an **incorrect** answer shows visual feedback that it is wrong 
+  -  Clicking on the submit button with a **correct** answer shows visual feedback that it is correct
+- [x] **The user can navigate through an ordered list of cardss**
+  - A forward/next button displayed on the card navigates to the next card in a set sequence when clicked
+  - A previous/back button displayed on the card returns to the previous card in the set sequence when clicked
+  - Both the next and back buttons should have some visual indication that the user is at the beginning or end of the list (for example, graying out and no longer being available to click), not allowing for wrap-around navigation
 
-- [x] **The app displays the title of the card set, a short description, and the total number of cards**
-  - [x] Title of card set is displayed 
-  - [x] A short description of the card set is displayed 
-  - [x] A list of card pairs is created
-  - [x] The total number of cards in the set is displayed 
-  - [x] Card set is represented as a list of card pairs (an array of dictionaries where each dictionary contains the question and answer is perfectly fine)
-- [x] **A single card at a time is displayed**
-  - [x] Only one half of the information pair is displayed at a time
-- [x] **Clicking on the card flips the card over, showing the corresponding component of the information pair**
-  - [x] Clicking on a card flips it over, showing the back with corresponding information 
-  - [x] Clicking on a flipped card again flips it back, showing the front
-- [x] **Clicking on the next button displays a random new card**
+The following **additional** features are implemented:
+
+* [x] a reset button to put you back to the beginning of the card deck
 
 ## Video Walkthrough
 
-Here's a walkthrough of implemented required features:
+Here's a walkthrough of implemented user stories:
 
-<img src='https://i.imgur.com/sUR8klv.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
-
+<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 ## Notes
-
-Had a small issue with formatting the containers for the cards, but I used copilot to help me.
+I had a small issue when trying to verify the answer in the text box but it turned out to be a spelling error in my code.
 
 ## License
 
@@ -49,4 +46,7 @@ Had a small issue with formatting the containers for the cards, but I used copil
     distributed under the License is distributed on an "AS IS" BASIS,
     WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
     See the License for the specific language governing permissions and
-    limitations under the License.
+    limitations under the License.# Project-3-Flashcards-Part-2
+# Project-3-Flashcards-Part-2
+# WEB102-Project-3-flash-cards-part-2
+# WEB102-Project-3-flash-cards-part-2
