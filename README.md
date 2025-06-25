@@ -46,7 +46,4 @@ I had a small issue when trying to verify the answer in the text box but it turn
     distributed under the License is distributed on an "AS IS" BASIS,
     WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
     See the License for the specific language governing permissions and
-    limitations under the License.# Project-3-Flashcards-Part-2
-# Project-3-Flashcards-Part-2
-# WEB102-Project-3-flash-cards-part-2
-# WEB102-Project-3-flash-cards-part-2
+    limitations under the License.# 
